@@ -1,7 +1,3 @@
-# Antomuto
+# website
 
-### The Reposity that literally hosts my website because I'm broke asf
-
-- You can find more information and links about me, feel free to check them out.
-
-- Donating isn't necessary, however if you're willing to donate a couple of bucks, that would definitely help me. Thank you.
+![website](https://user-images.githubusercontent.com/56132390/112023966-05650980-8b34-11eb-9b51-986337c2f505.png)
